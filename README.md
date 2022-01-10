@@ -24,6 +24,8 @@ Click on the [us-medical-insurance-costs.ipynb](https://github.com/vytran17/us-m
 | Smoker        | $32,050.23          |
 | Non-smoker    | $8,434.27           |
 
+![Smoker vs non-smoker cost](https://github.com/vytran17/us-medical-insurance-costs/blob/main/images/smoker-vs-non-smoker-cost.png?raw=true)
+
 ### Older patients tend to have a higher body mass index
 
 | Age group     | Average BMI         |
@@ -35,7 +37,9 @@ Click on the [us-medical-insurance-costs.ipynb](https://github.com/vytran17/us-m
 | 50-59         | 31.51               |
 | 60-69         | 32.02               |
 
-### The geographic region of the patients is evenly distributed, with southwest being slightly overrepresented.
+![Patient BMI vs age](https://github.com/vytran17/us-medical-insurance-costs/blob/main/images/patient-bmi-vs-age.png?raw=true)
+
+### The geographic region of the patients is evenly distributed, with southwest being slightly overrepresented
 
 | Region     | Number of patients  | Percent of total    |
 | -----------|:-------------------:|:-------------------:|
@@ -44,6 +48,12 @@ Click on the [us-medical-insurance-costs.ipynb](https://github.com/vytran17/us-m
 | Northwest  | 325                 | 24.3%               |
 | Norhteast  | 324                 | 24.2%               |
 
+![Number of people in each region](https://github.com/vytran17/us-medical-insurance-costs/blob/main/images/number-of-people%20in-each-region.png?raw=true)
+
 ### Average patient is 31 years old
 
+![Patient age distribution](https://github.com/vytran17/us-medical-insurance-costs/blob/main/images/patient-age-distribution.png?raw=true)
+
 ### Average age of patients with at least 1 child is 40 years old
+
+![Number of children and average parent age](https://github.com/vytran17/us-medical-insurance-costs/blob/main/images/number-of-children-average-parent-age.png?raw=true)
